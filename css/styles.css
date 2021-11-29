@@ -132,7 +132,7 @@ footer{
 @media screen and (max-width:700px){
     .formContainer{
         
-        padding: 9em;
+        padding: 3em;
         margin: 0;
     
     }
@@ -142,7 +142,7 @@ footer{
     }
 
     input, select , submit{
-        padding: 2em;
+        padding: 1.3em;
         font-size: 14px;
 
 
