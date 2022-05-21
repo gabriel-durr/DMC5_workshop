@@ -1,3 +1,26 @@
-# dmc5-workshop
-Projeto do curso PROGBR Full Stack. 
-IDEIA: Um WorkShop, de um curso para aprender a jogar o game Devil May Cry5. 
+<h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
+
+
+<p  align="center">Desafio do Curso progBR, na qual tive a ideia de criar um Workshop, para ensinar as pessoas a jogar o game Devil May Cry5. </p>
+
+
+
+
+<br><br>
+
+<h2 id = "author" align="center"> 🎨 Author</h2>
+
+<table align="center">
+  <tr>
+      <td>
+      <a href="https://github.com/gabriel-durr">
+        <img src="https://i.pinimg.com/736x/2d/0a/52/2d0a524829bc30e731bddac6fa0a0d08.jpg" width="80px;" alt="Image Gabriel Dürr Author"/><br>
+      </a>
+      </td>
+  </tr>
+</table>
+
+
+<div align="center">
+<sub><b>Study project developed with<em> 💜 by Gabriel Dürr</em></b></sub>
+</div>
