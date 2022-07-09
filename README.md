@@ -1,7 +1,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 
-<p  align="center"Challenge of the progBR Course, in which I had the idea of creating a Workshop, to teach people how to play the game Devil May Cry5. </p>
+<p  align="center"> Challenge of the progBR Course, in which I had the idea of creating a Workshop, to teach people how to play the game Devil May Cry5. </p>
 
 
 
